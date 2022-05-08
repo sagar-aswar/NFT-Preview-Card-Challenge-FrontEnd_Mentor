@@ -8,7 +8,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://sagar-aswar.github.io/NFT-Preview-Card-Challenge-FrontEnd_Mentor/)
+- Live Site URL: [Click Here](https://sagar-aswar.github.io/NFT-Preview-Card-Challenge-FrontEnd_Mentor/)
 
 ### Built with
 
